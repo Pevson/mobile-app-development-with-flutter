@@ -2,7 +2,7 @@
 
 This repository contains Dart programs for the IS 325 course on Mobile Applications Development
 #### DEVELOPER TEAM - Group 4
-JOHN Z PETRO 27829/T.2021'
+JOHN Z PETRO 27829/T.2021
 ANITHA S MUGASHA 26933/T.2021
 PEVSON R KAHWA 26999/T.2021
 THOMAS N JOSEPH 27017/T.2021
