@@ -2,13 +2,13 @@
 
 This repository contains Dart programs for the IS 325 course on Mobile Applications Development
 ##### DEVELOPER TEAM - Group 4
-JOHN Z PETRO
-ANITHA S MUGASHA
-PEVSON R KAHWA
-THOMAS N JOSEPH
-ROSE E MWANJALILA
-LUCIA E NGALYA
-JOSHUA PETER
+- `JOHN Z PETRO`
+- `ANITHA S MUGASHA`
+- `PEVSON R KAHWA`
+- `THOMAS N JOSEPH`
+- `ROSE E MWANJALILA`
+- `LUCIA E NGALYA`
+- `JOSHUA PETER`
 
 ## Folder Structure
 
