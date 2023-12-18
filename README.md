@@ -1,18 +1,20 @@
 # Mobile App Development with Flutter
 
 This repository contains Dart programs for the IS 325 course on Mobile Applications Development
-#### DEVELOPER TEAM - Group 4
-JOHN Z PETRO 27829/T.2021
-ANITHA S MUGASHA 26933/T.2021
-PEVSON R KAHWA 26999/T.2021
-THOMAS N JOSEPH 27017/T.2021
-ROSE E MWANJALILA 27005/T.2021
-LUCIA E NGALYA 26983/T.2021
-JOSHUA PETER 26972/T.2021
+##### DEVELOPER TEAM - Group 4
+JOHN Z PETRO
+ANITHA S MUGASHA
+PEVSON R KAHWA
+THOMAS N JOSEPH
+ROSE E MWANJALILA
+LUCIA E NGALYA
+JOSHUA PETER
 
 ## Folder Structure
 
 - `000-introduction_to_dart`: Contains solutions to introduction to Dart exercises
+- `001-area_calculator`: A mobile app to calculate area
+- `002-bmi_calculator`: A mobile app to calculate Body Mass Index (BMI)
 
 ## Running Dart Programs
 
